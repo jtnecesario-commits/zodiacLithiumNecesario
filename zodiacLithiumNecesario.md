@@ -1,4 +1,4 @@
-# Reqiurments :
+# Requirments :
 
 Instructions:
 1. Create a zodiacSectionLN.py file. This file will contain your solutions to the requirements below.
